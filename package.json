@@ -2,7 +2,12 @@
   "name": "nodejs-microservice-template",
   "version": "0.0.1",
   "description": "Node.js MicroService template based on NestJS",
-  "keywords": ["nodejs", "microservice", "template", "typescript"],
+  "keywords": [
+    "nodejs",
+    "microservice",
+    "template",
+    "typescript"
+  ],
   "author": "Kiril Reznik",
   "private": true,
   "license": "UNLICENSED",
