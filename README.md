@@ -7,6 +7,7 @@ A Node.js MicroService template based on [NestJS](https://github.com/nestjs/nest
 ## Changes on top of NestJS
 
 - Added `SWC`, run with `npm run start:swc`
+- Added [Helmet](https://helmetjs.github.io/)
 
 ## Installation
 
